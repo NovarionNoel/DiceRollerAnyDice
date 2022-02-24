@@ -1,0 +1,15 @@
+C:\Users\James\Documents\College Papers\Spring 2021\IT 1050\Unit 3\Projects\DiceRollerAnyDice\bin\Debug\net6.0\DiceRollerAnyDice.exe
+C:\Users\James\Documents\College Papers\Spring 2021\IT 1050\Unit 3\Projects\DiceRollerAnyDice\bin\Debug\net6.0\DiceRollerAnyDice.deps.json
+C:\Users\James\Documents\College Papers\Spring 2021\IT 1050\Unit 3\Projects\DiceRollerAnyDice\bin\Debug\net6.0\DiceRollerAnyDice.runtimeconfig.json
+C:\Users\James\Documents\College Papers\Spring 2021\IT 1050\Unit 3\Projects\DiceRollerAnyDice\bin\Debug\net6.0\DiceRollerAnyDice.dll
+C:\Users\James\Documents\College Papers\Spring 2021\IT 1050\Unit 3\Projects\DiceRollerAnyDice\bin\Debug\net6.0\ref\DiceRollerAnyDice.dll
+C:\Users\James\Documents\College Papers\Spring 2021\IT 1050\Unit 3\Projects\DiceRollerAnyDice\bin\Debug\net6.0\DiceRollerAnyDice.pdb
+C:\Users\James\Documents\College Papers\Spring 2021\IT 1050\Unit 3\Projects\DiceRollerAnyDice\obj\Debug\net6.0\DiceRollerAnyDice.csproj.AssemblyReference.cache
+C:\Users\James\Documents\College Papers\Spring 2021\IT 1050\Unit 3\Projects\DiceRollerAnyDice\obj\Debug\net6.0\DiceRollerAnyDice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\James\Documents\College Papers\Spring 2021\IT 1050\Unit 3\Projects\DiceRollerAnyDice\obj\Debug\net6.0\DiceRollerAnyDice.AssemblyInfoInputs.cache
+C:\Users\James\Documents\College Papers\Spring 2021\IT 1050\Unit 3\Projects\DiceRollerAnyDice\obj\Debug\net6.0\DiceRollerAnyDice.AssemblyInfo.cs
+C:\Users\James\Documents\College Papers\Spring 2021\IT 1050\Unit 3\Projects\DiceRollerAnyDice\obj\Debug\net6.0\DiceRollerAnyDice.csproj.CoreCompileInputs.cache
+C:\Users\James\Documents\College Papers\Spring 2021\IT 1050\Unit 3\Projects\DiceRollerAnyDice\obj\Debug\net6.0\DiceRollerAnyDice.dll
+C:\Users\James\Documents\College Papers\Spring 2021\IT 1050\Unit 3\Projects\DiceRollerAnyDice\obj\Debug\net6.0\ref\DiceRollerAnyDice.dll
+C:\Users\James\Documents\College Papers\Spring 2021\IT 1050\Unit 3\Projects\DiceRollerAnyDice\obj\Debug\net6.0\DiceRollerAnyDice.pdb
+C:\Users\James\Documents\College Papers\Spring 2021\IT 1050\Unit 3\Projects\DiceRollerAnyDice\obj\Debug\net6.0\DiceRollerAnyDice.genruntimeconfig.cache
