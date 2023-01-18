@@ -1,16 +1,22 @@
-﻿class Program
+﻿using System.Runtime.InteropServices;
+
+class Program
 {
-    //Program runs once and then terminates.
+    //Program runs until exited.
 
     static Random die = new Random();
     static void Main(string[] args)
+
     {
-        Console.WriteLine("Let's roll some dice! How many sides do the dice you want to roll have?");
-        int a = Convert.ToInt32(Console.ReadLine());
-        Console.WriteLine("How many dice do you want to roll?");
-        int b = Convert.ToInt32(Console.ReadLine());
-        Console.WriteLine(DiceRoller(a,b) +  " is your total from those dice!");
-        Console.ReadKey();
+        int a = -1;
+        while (a != 0){
+            Console.WriteLine("Let's roll some dice! How many sides do the dice you want to roll have? Enter 0 to exit.");
+            a = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("How many dice do you want to roll?");
+            int b = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine(DiceRoller(a, b) + " is your total from those dice!");
+           }
+        Console.WriteLine("Goodbye!");
     }
 
     static int DiceRoller(int x, int y)
