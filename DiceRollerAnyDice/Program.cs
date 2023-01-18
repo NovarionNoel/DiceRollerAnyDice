@@ -1,5 +1,7 @@
 ﻿class Program
 {
+    //Program runs once and then terminates.
+
     static Random die = new Random();
     static void Main(string[] args)
     {
