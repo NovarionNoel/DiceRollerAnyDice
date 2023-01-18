@@ -12,6 +12,7 @@ class Program
         while (a != 0){
             Console.WriteLine("Let's roll some dice! How many sides do the dice you want to roll have? Enter 0 to exit.");
             a = Convert.ToInt32(Console.ReadLine());
+            if (a ==0) break;
             Console.WriteLine("How many dice do you want to roll?");
             int b = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine(DiceRoller(a, b) + " is your total from those dice!");
