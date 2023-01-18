@@ -13,3 +13,18 @@ C:\Users\James\Documents\College Papers\Spring 2021\IT 1050\Unit 3\Projects\Dice
 C:\Users\James\Documents\College Papers\Spring 2021\IT 1050\Unit 3\Projects\DiceRollerAnyDice\obj\Debug\net6.0\ref\DiceRollerAnyDice.dll
 C:\Users\James\Documents\College Papers\Spring 2021\IT 1050\Unit 3\Projects\DiceRollerAnyDice\obj\Debug\net6.0\DiceRollerAnyDice.pdb
 C:\Users\James\Documents\College Papers\Spring 2021\IT 1050\Unit 3\Projects\DiceRollerAnyDice\obj\Debug\net6.0\DiceRollerAnyDice.genruntimeconfig.cache
+D:\Programs\RepoTest\DiceRollerAnyDice\bin\Debug\net6.0\DiceRollerAnyDice.exe
+D:\Programs\RepoTest\DiceRollerAnyDice\bin\Debug\net6.0\DiceRollerAnyDice.deps.json
+D:\Programs\RepoTest\DiceRollerAnyDice\bin\Debug\net6.0\DiceRollerAnyDice.runtimeconfig.json
+D:\Programs\RepoTest\DiceRollerAnyDice\bin\Debug\net6.0\DiceRollerAnyDice.dll
+D:\Programs\RepoTest\DiceRollerAnyDice\bin\Debug\net6.0\DiceRollerAnyDice.pdb
+D:\Programs\RepoTest\DiceRollerAnyDice\obj\Debug\net6.0\DiceRollerAnyDice.csproj.AssemblyReference.cache
+D:\Programs\RepoTest\DiceRollerAnyDice\obj\Debug\net6.0\DiceRollerAnyDice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\RepoTest\DiceRollerAnyDice\obj\Debug\net6.0\DiceRollerAnyDice.AssemblyInfoInputs.cache
+D:\Programs\RepoTest\DiceRollerAnyDice\obj\Debug\net6.0\DiceRollerAnyDice.AssemblyInfo.cs
+D:\Programs\RepoTest\DiceRollerAnyDice\obj\Debug\net6.0\DiceRollerAnyDice.csproj.CoreCompileInputs.cache
+D:\Programs\RepoTest\DiceRollerAnyDice\obj\Debug\net6.0\DiceRollerAnyDice.dll
+D:\Programs\RepoTest\DiceRollerAnyDice\obj\Debug\net6.0\refint\DiceRollerAnyDice.dll
+D:\Programs\RepoTest\DiceRollerAnyDice\obj\Debug\net6.0\DiceRollerAnyDice.pdb
+D:\Programs\RepoTest\DiceRollerAnyDice\obj\Debug\net6.0\DiceRollerAnyDice.genruntimeconfig.cache
+D:\Programs\RepoTest\DiceRollerAnyDice\obj\Debug\net6.0\ref\DiceRollerAnyDice.dll

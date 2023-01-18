@@ -3,8 +3,6 @@
     static Random die = new Random();
     static void Main(string[] args)
     {
-
-
         Console.WriteLine("Let's roll some dice! How many sides do the dice you want to roll have?");
         int a = Convert.ToInt32(Console.ReadLine());
         Console.WriteLine("How many dice do you want to roll?");
